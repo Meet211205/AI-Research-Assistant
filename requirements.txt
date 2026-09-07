@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-community
+python-dotenv
+wikipedia
+wikipedia-api
+duckduckgo-search
